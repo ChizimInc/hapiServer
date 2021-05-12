@@ -1,0 +1,14 @@
+{
+  "name": "hapiserver",
+  "version": "1.0.0",
+  "description": "Api server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chizim Cezar",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.3"
+  }
+}
